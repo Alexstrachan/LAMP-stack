@@ -4,10 +4,10 @@
 
 ## 1.1 Instalación de composer.
 
-Primero debemos de actualizar los paquetes del server e instalar los complementos necesarios:
+1.Primero debemos de actualizar los paquetes del server e instalar los complementos necesarios:
 
- $ sudo apt update
- $ sudo apt install wget php-cli php-zip unzip
+* sudo apt update
+* sudo apt install wget php-cli php-zip unzip
 
 
 
