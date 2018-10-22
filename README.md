@@ -33,6 +33,7 @@ phpinfo();
 
 Consultamos en la ruta: "localhost/info.php"
 
+# Actividad
 
 # 1. Instalación de phpMyAdmin.
 
