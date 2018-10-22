@@ -1,6 +1,6 @@
 # practica_LAMP
 
-
+# Introducción
 
 # 0.Instalación de la pila LAMP.
 
